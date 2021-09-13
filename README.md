@@ -8,6 +8,7 @@
 + Or being hated, dont give way to hating 
 + And yet don't look too good nor talk too wise 
 
-If you can dream and make dreams your master 
+If you can dream and not make dreams your master 
 ---
 If you can think and not make thoughs your aim 
+If you can meet with *Triumph* and **Disaster**
