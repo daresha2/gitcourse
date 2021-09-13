@@ -5,3 +5,5 @@
 > But make allowance for their doubting too
 > > If you can wait and not be tired by waiting 
 > > > *Or being lied about, don't deal in lies*
++ Or being hated, dont give way to hating 
++ And yet don't look too good nor talk too wise 
