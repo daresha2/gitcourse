@@ -19,3 +19,8 @@ If you can meet with *Triumph* and **Disaster**
 |line 2 |number 1 |5678   |
 |line 3 |number 2 |901234 |
 |line 4 |Nabokov  |Lolita |
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
